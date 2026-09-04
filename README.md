@@ -1,53 +1,117 @@
-# Hi, I'm Asadbek 👋
+<div align="center">
 
-### 💻 Beginner Developer | ⚡ Tech & Electronics Enthusiast
+<table>
+<tr>
+<td align="center" width="700">
 
-I'm interested in programming, electronics, mechanics and building new projects.
+# 👋 HI, I'M ASADBEK
 
----
+### 💻 DEVELOPER • ⚡ TECH ENTHUSIAST • 🤖 MAKER
 
-## 🚀 About Me
+</td>
+</tr>
+</table>
 
-- 🔭 I'm currently working on **mechanics & electronics projects**
-- 🌱 I'm currently learning **HTML, CSS, JavaScript**
-- 💻 I'm interested in **Web Development**
-- ⚡ I enjoy making **electronic and technical projects**
-- 🎯 My goal is to become a **Full-Stack Developer**
+<br>
 
----
+### 🚀 Welcome to my GitHub profile!
 
-## 🛠️ Skills
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+I'm passionate about **programming, electronics, mechanics and technology.**
 
 ---
 
-## 📂 My Projects
+## 🧑‍💻 ABOUT ME
 
-🔹 🌐 **Portfolio Website**  
-My personal portfolio website.
+🔭 Currently working on **Mechanics & Electronics projects**
 
-🔹 🤖 **Arduino Projects**  
-Electronics and robotics projects.
+🌱 Currently learning **HTML • CSS • JavaScript**
 
-🔹 ⚙️ **Mechanics Projects**  
-Different technical and mechanical ideas.
+💻 Interested in **Web Development**
 
----
+🤖 Interested in **Arduino & Robotics**
 
-## 📊 GitHub Stats
+⚙️ Love building **technical projects**
 
-![Asadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaqovasadbek900-cloud&show_icons=true&theme=tokyonight)
+🎯 Goal: **Become a Full-Stack Developer**
 
 ---
 
-## 📫 Contact
+## 🛠️ TECHNOLOGIES
 
-If you want to collaborate on a project, feel free to contact me.
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,arduino,python,github,vscode" />
+
+<br><br>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🚀 MY PROJECTS
+
+<table>
+<tr>
+
+<td align="center" width="250">
+
+### 🌐 Portfolio
+
+Modern personal portfolio website.
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 Arduino
+
+Electronics & robotics projects.
+
+</td>
+
+<td align="center" width="250">
+
+### ⚙️ Mechanics
+
+Creative mechanical projects.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATS
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=isaqovasadbek900-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaqovasadbek900-cloud&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+---
+
+## 💡 MY GOAL
+
+### 🚀 LEARN • BUILD • CREATE
+
+<br>
+
+> "Every expert was once a beginner."
+
+---
+
+## 📫 CONTACT
+
+💻 **GitHub:** `isaqovasadbek900-cloud`
+
+🤝 **Open to learning and collaboration**
+
+<br>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
